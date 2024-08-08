@@ -5,6 +5,7 @@ LABEL maintainer="Faleh Alotaibi"
 
 # title
 ENV TITLE=Modbuspal
+LABEL org.opencontainers.image.source=https://github.com/f-alotaibi/docker-modbuspal
 
 RUN \
   echo "**** Setup ****" && \
