@@ -1,1 +1,1 @@
-wireshark
+java -jar /app/modbuspal.jar
